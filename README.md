@@ -21,7 +21,7 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 ---
 
 ## 📜 Changelogs
-- [v3.0 (DRAFT)](changelogs/v3.0.md)
+- [v3.0](changelogs/v3.0.md)
 - [v2.2](changelogs/v2.2.md)
 - [v2.1](changelogs/v2.1.md)
 - [v1.0](changelogs/v1.0.md)
