@@ -13,7 +13,7 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 - [Changelogs](#-changelogs)
 - [Version Overview](#-version-overview)
 - [How We Use This Repo](#-how-we-use-this-repo)
-- [Versioning Policy](#-versioning-olicy)
+- [Versioning Policy](#-versioning-policy)
 - [Maintainers](#-maintainers)
 - [Notes](#-notes)
 
