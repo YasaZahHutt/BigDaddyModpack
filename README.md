@@ -1,4 +1,4 @@
-# Big Daddy Modpack
+# YASA&HVBI
 
 Private repository for managing Big Daddy Modpack updates and changelogs.  
 Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).  
