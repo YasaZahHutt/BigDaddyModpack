@@ -19,8 +19,9 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 - Each version has its own file in the `/changelogs` folder.  
 - Draft versions (not live on the server yet) are marked as **DRAFT**.  
 - When a new update is released, a changelog is created or updated here.  
+- Use the [TEMPLATE](changelogs/TEMPLATE.md) to start new versions.  
 
 ---
 
 ## ⚠️ Notes
-- For bug reports and issues, please contact **YasaZahHutt** or **hvbi** directly.  
+- For bug reports or issues, please contact **YasaZahHutt** or **hvbi** directly.  
