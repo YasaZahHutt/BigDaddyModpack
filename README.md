@@ -47,6 +47,13 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 
 ---
 
+## 📌 Versioning Policy
+- **Draft** → Planned but not released.  
+- **Live** → Current version running on the server.  
+- **Archived** → Older versions that are no longer active.  
+
+---
+
 ## 👥 Maintainers
 - **YasaZahHutt** – Host, Repo Owner  
 - **hvbi** – Co-manager, Contributor  
