@@ -33,8 +33,8 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 
 | Version | Status   | Release Date | Notes                                    |
 |---------|----------|--------------|------------------------------------------|
-| v3.0    | Draft    | TBD          | Planned update *(mods list not final)*   |
-| v2.2    | Live     | 2025-09-19   | Current server version (server fixes)    |
+| v3.0    | Live    | 2025-09-22    | Planned update *(mods list not final)*   |
+| v2.2    | Archived | 2025-09-19   | Current server version (server fixes)    |
 | v2.1    | Archived | 2025-09-18   | Superseded by v2.2 (mod changes)         |
 | v1.0    | Archived | 2025-09-10   | Superseded by v2.1 (first stable build)  |
 
