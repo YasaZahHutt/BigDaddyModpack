@@ -13,6 +13,7 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 - [Changelogs](#-changelogs)
 - [Version Overview](#-version-overview)
 - [How We Use This Repo](#-how-we-use-this-repo)
+- [Versioning Policy](#-versioning-olicy)
 - [Maintainers](#-maintainers)
 - [Notes](#-notes)
 
@@ -29,12 +30,12 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 
 ## 📦 Version Overview
 
-| Version | Status | Release Date | Notes |
-|---------|--------|--------------|-------|
-| v3.0    | Draft  | TBD          | Planned update |
-| v2.2    | Live       | 2025-09-19   | Server fixes |
-| v2.1    | Archived       | 2025-09-18   | Mod additions & removals |
-| v1.0    | Archived       | 2025-09-10   | First stable release |
+| Version | Status   | Release Date | Notes                                    |
+|---------|----------|--------------|------------------------------------------|
+| v3.0    | Draft    | TBD          | Planned update *(mods list not final)*   |
+| v2.2    | Live     | 2025-09-19   | Current server version (server fixes)    |
+| v2.1    | Archived | 2025-09-18   | Superseded by v2.2 (mod changes)         |
+| v1.0    | Archived | 2025-09-10   | Superseded by v2.1 (first stable build)  |
 
 ---
 
