@@ -12,6 +12,7 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 ## 📑 Table of Contents
 - [Changelogs](#-changelogs)
 - [Version Overview](#-version-overview)
+- [Tutorials](#-tutorials)
 - [How We Use This Repo](#-how-we-use-this-repo)
 - [Versioning Policy](#-versioning-policy)
 - [Maintainers](#-maintainers)
@@ -36,6 +37,12 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 | v2.2    | Live     | 2025-09-19   | Current server version (server fixes)    |
 | v2.1    | Archived | 2025-09-18   | Superseded by v2.2 (mod changes)         |
 | v1.0    | Archived | 2025-09-10   | Superseded by v2.1 (first stable build)  |
+
+---
+
+## 🎥 Tutorials
+- [Installation Guide (YouTube)]("https://youtu.ie/VIDEO_ID")  
+  *How to install via CurseForge, enable required resource packs, and optional shaders.*  
 
 ---
 
