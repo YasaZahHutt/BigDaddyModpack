@@ -32,7 +32,7 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 | Version | Status | Release Date | Notes |
 |---------|--------|--------------|-------|
 | v3.0    | Draft  | TBD          | Planned update |
-| v2.2    | live       | 2025-09-19   | Server fixes |
+| v2.2    | Live       | 2025-09-19   | Server fixes |
 | v2.1    | Archived       | 2025-09-18   | Mod additions & removals |
 | v1.0    | Archived       | 2025-09-10   | First stable release |
 
