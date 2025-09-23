@@ -1,12 +1,21 @@
-# Big Daddy Modpack - Mods Download
+# Big Daddy Modpack - Download
 
-The mod `.jar` files are too large to be hosted directly on GitHub.  
-You can download the complete **mods folder** from our MEGA link below:
+To install the Big Daddy Modpack, download the latest `.zip` file from MEGA and import it into **CurseForge**.
 
-👉 [Download Mods from MEGA](https://mega.nz/file/Kw0SxI4Q#bCSXFCxdbv1ARp16934ov536IYewG59ztJGPUsvjE0A)
+👉 [Download Modpack (.zip) from MEGA]([https://mega.nz/your-mega-link-here](https://mega.nz/file/Kw0SxI4Q#bCSXFCxdbv1ARp16934ov536IYewG59ztJGPUsvjE0A))
+
 ---
 
-## 📦 Notes
-- Make sure to place all downloaded `.jar` files into your `mods` folder.  
-- Required resource packs and shader packs are included in the [ResourcePacks](resourcepacks) and [Shaderpacks](shaderpacks) sections of the modpack export.  
-- Check the [Changelogs](changelogs/) for version-specific additions or removals.  
+## 📥 Installation Guide
+1. Download the `.zip` file from the link above.  
+2. Open the **CurseForge** app.  
+3. Go to **Minecraft → My Modpacks → Create Custom Profile → Import**.  
+4. Select the downloaded `.zip` file.  
+5. CurseForge will automatically set up the mods, resource packs, and configs.  
+
+---
+
+## ⚠️ Notes
+- Make sure to import the `.zip`, not just extract it.  
+- Shader packs are optional but included in the pack if you want them enabled.  
+- For update notes, see the [Changelogs](changelogs/).  
