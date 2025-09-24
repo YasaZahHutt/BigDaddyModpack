@@ -11,7 +11,7 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 
 ## 🔗 Download Modpack
 - The latest **.zip file** for CurseForge import is hosted on MEGA:  
-  👉 [Download Modpack](https://mega.nz/your-mega-link-here)
+  👉 [Download Modpack]()
 
 ---
 
