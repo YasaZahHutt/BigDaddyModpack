@@ -45,6 +45,9 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 ## 🎥 Tutorials
 - [Installation Guide (YouTube)]("[https://youtu.be/BeQb8lvuRb4]) 
   *How to install via CurseForge, enable required resource packs, and optional shaders.*  
+  [![Watch the video](https://img.youtube.com/vi/BeQb8lvuRb4/maxresdefault.jpg)](https://youtu.be/BeQb8lvuRb4)
+
+### [Watch this video on YouTube](https://youtu.be/BeQb8lvuRb4)
 
 ---
 
