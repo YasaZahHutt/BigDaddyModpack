@@ -43,7 +43,7 @@ Maintained by **YasaZahHutt** (host) & **hvbi** (co-manager).
 ---
 
 ## 🎥 Tutorials
-- [Installation Guide (YouTube)]("[https://youtu.ie/VIDEO_ID](https://youtu.be/BeQb8lvuRb4)")  
+- [Installation Guide (YouTube)]("[https://youtu.be/BeQb8lvuRb4]) 
   *How to install via CurseForge, enable required resource packs, and optional shaders.*  
 
 ---
